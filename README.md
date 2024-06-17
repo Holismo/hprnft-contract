@@ -4,7 +4,6 @@ HOLISMO PRE-RELEASE NFT CONTRACT
 **COMMANDS**
 
 **Transfer a Token**
-To transfer a token from one address to another:
 
 {
   "method": "contract_call",
@@ -37,7 +36,6 @@ To transfer a token from one address to another:
 
 
 **Approve an Address**
-To approve an address to manage a specific token:
 
 {
   "method": "contract_call",
@@ -65,7 +63,6 @@ To approve an address to manage a specific token:
 
 
 **Burn a Token**
-To burn (destroy) a token:
 
 {
   "method": "contract_call",
